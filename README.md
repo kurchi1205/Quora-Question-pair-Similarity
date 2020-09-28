@@ -5,3 +5,4 @@ For a pair of questions asked on Quora , we have to predict if those questions a
  - Quora 2 is preprocessing the data and advanced feature extraction
  - Quora 3 is Splitting the data into train and test and featurizing the text data.
  - Quora 4 is building the models on this data.
+#### This is a case study from Applied AI Course . So the entire code is not exclusive . Only the assignment in the Case study is exclusive.
